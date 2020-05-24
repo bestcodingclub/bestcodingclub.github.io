@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<title>Homepage</title>
+		<meta charset="utf-8">
+	</head>
+<body>
+	<h1 id="page-top">Hyperlinks</h1>
+	<h2>Links to External Pages</h2>
+	<h3>Absolute Link</h3>
+	<p>This is a link to a page that I am not hosting. It includes and absolute
+	URL reference including the HTTP protocol.<br>
+	<a href="https://www.ucmo.edu/">A link to my University</a></p>
+	<h3>Relative Link</h3>
+</body>
+</html>
